@@ -1,0 +1,15 @@
+{
+  "name": "aodown",
+  "description": "A way of writing an array of objects in markdown",
+  "keywords": ["parser", "markdown", "array", "objects"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DEVICARUS/aodown.git"
+  },
+  "version": "1.0.0",
+  "main": "lib.js",
+  "license": "MIT",
+  "dependencies": {
+    "execall": "^2.0.0"
+  }
+}
